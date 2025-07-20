@@ -53,7 +53,7 @@ const CartItem = ({ onContinueShopping }) => {
 
     // Placeholder checkout (optional stretch goal)
     const handleCheckoutShopping = () => {
-        alert('Functionality to be added for future reference');
+        alert('Hey thanks for shopping with us. Happy gardening..😃');
     };
 
     /* ---------- UI ---------- */
